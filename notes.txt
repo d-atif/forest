@@ -1,10 +1,12 @@
 eval $(opam env)
-
-
 forester build forest.toml
-
-
 python3 -m http.server 1313 -d output
+forester new forest.toml --dest=trees
 
 
-\p{[What i write and think](list)}
+
+
+
+
+
+note: if you want to edit locally, you have to comment/uncomment the url in the .toml file

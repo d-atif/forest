@@ -2,6 +2,7 @@
 \p{Yoo}
 \p{Welcome to da forest.}
 
-\p{Who I am: [[atifdegirmendzic]]}
-\p{Some stuff}
-\transclude{list}
+\p{Who: [[atifdegirmendzic]]}
+\transclude{0003}
+
+\p{[All the stuff](0001)}
