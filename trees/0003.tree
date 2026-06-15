@@ -1,0 +1,13 @@
+\title{List of Stuff}
+\date{2026-06-15}
+\author{atifdegirmendzic}
+
+
+\put\transclude/expanded{false}
+
+\ul{
+  \li{\transclude{0006}}
+  \li{\transclude{0002}}
+  \li{\transclude{0004}}
+  \li{\transclude{0005}}
+}

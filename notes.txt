@@ -5,7 +5,8 @@ forester new forest.toml --dest=trees
 
 
 
-
+\put\transclude/toc{false}
+\put\transclude/numbered{false}
 
 
 

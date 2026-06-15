@@ -1,8 +1,18 @@
 \title{Subtreehouse}
+\put\transclude/toc{false}
+
 \p{Yoo}
 \p{Welcome to da forest.}
 
 \p{Who: [[atifdegirmendzic]]}
-\transclude{0003}
 
-\p{[All the stuff](0001)}
+\scope{
+    \put\transclude/numbered{false}
+\scope{
+    \put\transclude/expanded{false}
+    \transclude{0001}
+}
+
+    \transclude{0003}
+}
+
