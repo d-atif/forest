@@ -1,4 +1,4 @@
-\title{Bethe graph tesselation fundamental polygon}
+\title{Bethe lattice and tesselations/fundamental polygons}
 \taxon{Thought}
 \date{2026-06-15T17:58:08Z}
 \author{atifdegirmendzic}
@@ -26,6 +26,6 @@
 
 \li{are the wave and heat equations part of some well known class of equations?}
 
-\li{bethe lattices (“occur”) can be viewed as discrete subgroups of fuchsian groups (theyre also lattices in the sense of a lattice in a Lie group). modular group is a fuchsian group. when the modular group acts on #{\H}, it tesselates #{\H}, the orbifold that corresponds to that tesselation was drawn by [Lejla](lejlasmajlovic)… two cusps, infinite neck thing. lets pretend that some bethe lattice corresponds to the modular (fuschsian) group (in worst case scenario, i hope we can find for a specific q a group that yields orbifolds as the modular group does). now, perhaps the corresponding bethe lattice subgroup of the modular group induces a coarser tesselation of the tesselation by the whole modular group. what’s the corresponding orbifold/manifold of that tesselation? let’s solve wave equation on that! and investigate if theres a connection with the kernels of the wave eq on the #{q+1} regular tree #{T_{q+1}}}}}
+\li{bethe lattices (“occur”) can be viewed as discrete subgroups of fuchsian groups (theyre also lattices in the sense of a lattice in a Lie group). modular group is a fuchsian group. when the modular group acts on #{\H}, it tesselates #{\H}, the orbifold that corresponds to that tesselation was drawn by Lejla… two cusps, infinite neck thing. lets pretend that some bethe lattice corresponds to the modular (fuschsian) group (in worst case scenario, i hope we can find for a specific q a group that yields orbifolds as the modular group does). now, perhaps the corresponding bethe lattice subgroup of the modular group induces a coarser tesselation of the tesselation by the whole modular group. what’s the corresponding orbifold/manifold of that tesselation? let’s solve wave equation on that! and investigate if theres a connection with the kernels of the wave eq on the #{q+1} regular tree #{T_{q+1}}}}}
 
 \p{problem s ovom pricom je sto (valjda?) obicno korsitimo fundamnetalni poligon da dobijemo info o manifoldu, jer je poligon jednostavniji objekat. ili ipak ide u oba pravca?}

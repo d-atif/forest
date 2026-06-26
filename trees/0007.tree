@@ -1,0 +1,10 @@
+\title{Point free group theory?}
+\taxon{Thought}
+\date{2026-06-26T21:38:11Z}
+\author{atifdegirmendzic}
+
+\p{are there approaches to group theory that are a bit more global in the following sense: in the category set objects are sets. there are no constraints on what a subset (ill call it the substructure) of a set can be, as long as it satisfies the basic definition (contains only some (or all) elements of the parent set). in the category grp, the objects are groups, and we know that the order of the subgroup (subgroups are now the relevant substructure) has to divide the order of the group; however we know this is not sufficient, since no real analogue of lagrange theorem exists. so im wondering if group theory can be built by putting a constraint on what its substructure (subgroup) can be ? are there approaches to group theory like this that are similar in spirit?}
+
+\p{i really dont know much about it, but this is reminiscent to me of point free topology. is there point free group theory ?}
+
+\p{(ofc the natural question onward would be: is there point free [insert structure here] theory?)}

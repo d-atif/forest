@@ -6,6 +6,7 @@
 \put\transclude/expanded{false}
 
 \ul{
+  \li{\transclude{0007}}
   \li{\transclude{0006}}
   \li{\transclude{0002}}
   \li{\transclude{0004}}
