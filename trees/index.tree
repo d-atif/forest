@@ -6,13 +6,11 @@
 
 \p{Who: [[atifdegirmendzic]]}
 
+\p{[All the stuff](0001)}
+
 \scope{
     \put\transclude/numbered{false}
-\scope{
-    \put\transclude/expanded{false}
-    \transclude{0001}
-}
 
-    \transclude{0003}
+    \transclude{0002}
 }
 

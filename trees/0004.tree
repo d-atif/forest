@@ -1,11 +1,31 @@
-\title{Creation of (co)limits}
-\date{2023-02-11}
-\taxon{Definition}
+\title{Bethe lattice and tesselations/fundamental polygons}
+\taxon{Thought}
+\date{2026-06-15T17:58:08Z}
 \author{atifdegirmendzic}
 
-\def\CCat{#{\mathcal{C}}}
-\def\DCat{#{\mathcal{D}}}
-\def\ICat{#{\mathcal{I}}}
-\def\Mor[arg1][arg2][arg3]{#{{\arg2}\xrightarrow{\arg1}{\arg3}}}
+\def\Z{#{\mathbb{Z}}}
+\def\H{#{\mathbb{H}}}
 
-\p{Let \Mor{U}{\CCat}{\DCat} be a functor and let \ICat be a category. The functor #{U} is said to \em{create (co)limits of #{\ICat}-figures} when for any diagram \Mor{C_\bullet}{\ICat}{\CCat} such that #{\ICat\xrightarrow{C_\bullet}\CCat\xrightarrow{F}\DCat} has a (co)limit, then #{C_\bullet} has a (co)limit that is both preserved and reflected by #{F}.}
+
+
+\ul{
+\li{is there a manifold that corresponds to a eg #{2+1} regular tree tesellation of the hyperbolic plane? if theres no direct correspondence, is there a way to construct a manifold thats in some way related to the tesselation? (myb take the complement, rotate, glue, remove/add sides in a meaningful way, and so on)}
+
+\li{are there discrete manifolds?}
+
+\li{is there perhaps a correspondence between discrete manifolds and the manifolds that we can (in some sensible way) associate with a #{q+1} tree that tesselates the hyperbolic plane}
+
+\li{can we tesselate hyperbolic plane with #{\Z} ?
+    \ul{
+    \li{probably not a tesselation, but. a spiral? 🌀 (tangential stuff below)}
+    \li{do we get anything if we try to define a curve as a graph with uncountably many points? or thats how we start, then we impose additional structure on it, that we need ie top and geo structure. question: would the graph aspect perhaps eliminate some pathologies? would it eliminate interesting curves?}}
+
+\li{can we solve wave equations on those (discrete) manifolds? would it have any connections with the solution of the graph? there is probably patternally similar stuff out there, ie, do something for the object that tesselates (here: our tree; elsewhere: a square, or octagon), you get ~info about the manifold (here:?, elsewhere: torus, 2-torus); euler characteristic is one such thing i think.}
+
+\li{can we solve wave equations on a torus or 2-torus?}
+
+\li{are the wave and heat equations part of some well known class of equations?}
+
+\li{bethe lattices (“occur”) can be viewed as discrete subgroups of fuchsian groups (theyre also lattices in the sense of a lattice in a Lie group). modular group is a fuchsian group. when the modular group acts on #{\H}, it tesselates #{\H}, the orbifold that corresponds to that tesselation was drawn by Lejla… two cusps, infinite neck thing. lets pretend that some bethe lattice corresponds to the modular (fuschsian) group (in worst case scenario, i hope we can find for a specific q a group that yields orbifolds as the modular group does). now, perhaps the corresponding bethe lattice subgroup of the modular group induces a coarser tesselation of the tesselation by the whole modular group. what’s the corresponding orbifold/manifold of that tesselation? let’s solve wave equation on that! and investigate if theres a connection with the kernels of the wave eq on the #{q+1} regular tree #{T_{q+1}}}}}
+
+\p{problem s ovom pricom je sto (valjda?) obicno korsitimo fundamnetalni poligon da dobijemo info o manifoldu, jer je poligon jednostavniji objekat. ili ipak ide u oba pravca?}

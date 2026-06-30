@@ -1,3 +1,14 @@
-\date{2026-06-14T17:46:52Z}
-\taxon{Note}
+\title{Point free group theory?}
+\taxon{Thought}
+\date{2026-06-26T21:38:11Z}
 \author{atifdegirmendzic}
+
+\p{are there approaches to group theory that are a bit more global in the following sense: in the category set objects are sets. there are no constraints on what a subset (ill call it the substructure) of a set can be, as long as it satisfies the basic definition (contains only some (or all) elements of the parent set). in the category grp, the objects are groups, and we know that the order of the subgroup (subgroups are now the relevant substructure) has to divide the order of the group; however we know this is not sufficient, since no real analogue of lagrange theorem exists. so im wondering if group theory can be built by putting a constraint on what its substructure (subgroup) can be ? are there approaches to group theory like this that are similar in spirit?}
+
+\p{what kind of category would we get if we just said: cardinality (order) of substructure has to divide the cardinality (order) of parent structure? i assume the category of finite groups would be a "subcategory" of this? has anyone done this? (see: [fusion categories](https://mathoverflow.net/questions/6180/why-are-fusion-categories-interesting))}
+
+\p{i really dont know much about it, but this is reminiscent to me of point free topology. is there point free group theory ?}
+
+\p{(ofc the natural question onward would be: is there point free [insert structure here] theory?)}
+
+\p{note: this came to mind after a brief convo w Asija, i was trying to explain why being able to see a group G as a subgroup of group of permutations is useful (subgroups divide order etc.)}

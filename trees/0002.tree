@@ -1,6 +1,12 @@
-\title{Where do ODEs come from?}
-\date{2023-02-11}
-\taxon{Link}
+\title{List of Stuff}
+\date{2026-06-15}
 \author{atifdegirmendzic}
 
-\p{See this: [https://youtu.be/B0E0q6ICK3c?si=Q-l8l-j4ORr9qRN9&t=957](https://youtu.be/B0E0q6ICK3c?si=Q-l8l-j4ORr9qRN9&t=957)}
+
+\put\transclude/expanded{false}
+
+\ul{
+  \li{\transclude{0005}}
+  \li{\transclude{0004}}
+  \li{\transclude{0003}}
+}
